@@ -1,0 +1,15 @@
+{
+  "name": "erreta",
+  "collaborators": [
+    "Conrad Mearns <conradmearns@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "erreta_bg.wasm",
+    "erreta.js",
+    "erreta.d.ts"
+  ],
+  "module": "erreta.js",
+  "types": "erreta.d.ts",
+  "sideEffects": "false"
+}
