@@ -7,16 +7,6 @@ export function main() {
     wasm.main();
 }
 
-/**
-* @param {number} a
-* @param {number} b
-* @returns {number}
-*/
-export function add(a, b) {
-    const ret = wasm.add(a, b);
-    return ret >>> 0;
-}
-
 const heap = new Array(32);
 
 heap.fill(undefined);

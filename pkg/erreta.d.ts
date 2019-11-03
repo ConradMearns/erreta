@@ -2,12 +2,6 @@
 /**
 */
 export function main(): void;
-/**
-* @param {number} a 
-* @param {number} b 
-* @returns {number} 
-*/
-export function add(a: number, b: number): number;
 
 /**
 * If `module_or_path` is {RequestInfo}, makes a request and
