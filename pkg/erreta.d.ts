@@ -1,7 +1,7 @@
 /* tslint:disable */
 /**
 */
-export function main(): void;
+export function start(): void;
 
 /**
 * If `module_or_path` is {RequestInfo}, makes a request and

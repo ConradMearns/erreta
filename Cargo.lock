@@ -39,6 +39,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 name = "erreta"
 version = "0.1.0"
 dependencies = [
+ "js-sys 0.3.30 (registry+https://github.com/rust-lang/crates.io-index)",
  "wasm-bindgen 0.2.53 (registry+https://github.com/rust-lang/crates.io-index)",
  "web-sys 0.3.30 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
